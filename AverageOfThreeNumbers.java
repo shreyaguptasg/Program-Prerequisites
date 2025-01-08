@@ -1,5 +1,6 @@
+
 import java.util.*;
-class AverageOfNumbers{
+class AverageOfThreeNumbers{
 public static void main(String [] args){
 Scanner sc = new Scanner(System.in);
 System.out.println("Enter your first numbers");
